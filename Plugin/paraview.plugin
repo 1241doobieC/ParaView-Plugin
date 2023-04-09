@@ -1,5 +1,5 @@
 NAME
-  BinReader
+  vtkBinReader
 DESCRIPTION
   An example plugin that adds a reader to the ParaView GUI. It is added in the
   file dialog when opening files.

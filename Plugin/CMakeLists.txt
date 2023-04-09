@@ -1,4 +1,4 @@
-paraview_add_plugin(BinReader
+paraview_add_plugin(vtkBinReader
   REQUIRED_ON_CLIENT
   REQUIRED_ON_SERVER
   VERSION "1.0"
