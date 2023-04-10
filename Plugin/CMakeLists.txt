@@ -3,4 +3,5 @@ paraview_add_plugin(vtkBinReader
   REQUIRED_ON_SERVER
   VERSION "1.0"
   REQUIRED_ON_SERVER
-  SERVER_MANAGER_XML readers.xml)
+  MODULES BINREADER
+  MODULE_FILES "${CMAKE_CURRENT_SOURCE_DIR}/vtk.module")

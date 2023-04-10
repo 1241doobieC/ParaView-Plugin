@@ -1,0 +1,2 @@
+/Users/chengyuan/Desktop/NTNU/2022_2/IS/paraview/Examples/Plugins/BinReader/build/CMakeFiles/edit_cache.dir
+/Users/chengyuan/Desktop/NTNU/2022_2/IS/paraview/Examples/Plugins/BinReader/build/CMakeFiles/rebuild_cache.dir
