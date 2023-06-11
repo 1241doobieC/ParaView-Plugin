@@ -2,5 +2,5 @@
 
 ## Enviroment
 
-OS: MacOS
+OS: MacOS  
 Chip: Apple M1 
