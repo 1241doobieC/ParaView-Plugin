@@ -6,6 +6,7 @@ OS: MacOS
 > Intel 晶片並不適用於本處提供之安裝方法。
 
 ## Installation Steps  
-+ Homebrew Installation
+1. Homebrew Installation
 > /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
+2. cd
+3. asd
