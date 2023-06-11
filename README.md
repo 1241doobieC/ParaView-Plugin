@@ -1,4 +1,5 @@
 # ParaView 安裝教學 - MacOS
 
-*Only for M1 Chips*
-
+##Enviroment
+OS: MacOS
+Chip: Apple M1 
