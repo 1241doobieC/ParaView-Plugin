@@ -6,7 +6,7 @@ OS: MacOS
 > Intel 晶片並不適用於本處提供之安裝方法。
 
 ## Installation Steps  
-Dependencies Installation
+1. Dependencies Installation
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install git
@@ -25,4 +25,10 @@ pip3 install bts_tools
 brew install open-mpi
 brew install tbb
 brew install ninja
+```
+2. 安裝最新穩定版
+```
+git clone https://gitlab.kitware.com/paraview/paraview.git
+mkdir paraview_build
+cd paraview
 ```
