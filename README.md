@@ -7,7 +7,8 @@ OS: MacOS
 
 ## Installation Steps  
 > Make sure that following dependencies are completely installed.  
-1. Homebrew 
-> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-2. 
-3. asd
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install git
+brew install cmake
+```
