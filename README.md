@@ -1,6 +1,8 @@
-# ParaView 安裝教學 - MacOS
+# 安裝教學 - MacOS
 
-## Enviroment
-
+## Enviroment  
 OS: MacOS  
-Chip: Apple M1 
+晶片: Apple M1 
+*Please Notify that Intel Chip may not be working with the following steps*
+
+## Installation Steps  
