@@ -26,7 +26,15 @@ brew install open-mpi
 brew install tbb
 brew install ninja
 ```
-2. 複製最新版
+2. Build開發者模式
+```
+git clone --recursive https://gitlab.kitware.com/paraview/paraview.git
+mkdir paraview_build
+cd paraview_build
+cmake -GNinja -DPARAVIEW_USE_PYTHON=ON -DPARAVIEW_USE_MPI=ON -DVTK_SMP_IMPLEMENTATION_TYPE=TBB -DCMAKE_BUILD_TYPE=Release ../paraview
+ninja
+```
+3. 指定版本
 ```
 git clone https://gitlab.kitware.com/paraview/paraview.git
 mkdir paraview_build
