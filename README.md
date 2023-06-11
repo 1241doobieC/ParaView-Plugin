@@ -1,2 +1,4 @@
-# ParaView-Plugin
-This Plugin's been created in order to read binary file.
+# ParaView-Plugin 安裝教學 - MacOS
+
+*Only for M1 Chips*
+
