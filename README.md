@@ -26,9 +26,12 @@ brew install open-mpi
 brew install tbb
 brew install ninja
 ```
-2. 安裝最新穩定版
+2. 複製最新版
 ```
 git clone https://gitlab.kitware.com/paraview/paraview.git
 mkdir paraview_build
 cd paraview
+git checkout tag (版本號 如圖一)
 ```
+圖一: <img width="253" alt="image" src="https://github.com/1241doobieC/ParaView-Plugin/assets/43471008/9378a8b8-fdaf-42fb-8d95-90362476e4c4">
+
